@@ -1,0 +1,2 @@
+Vous devez prendre le fichier orderform.html et modifier le formulaire afin qu'il appelle avec l'aide de la méthode POST une page nommée produireCommande.php.  Vous devrez produire un petit rapport pourla commande.Le prix des pneus est de 100$, le prix pour de l'huile est de 10$ et le prix pour les bougies est de 4$.  Placer ces prix dans des constantes pour le calcul.  Si l'usagé n'a pas entré de quantité pour un item on doit placer la quantité à 0.  Si l'entrée n'est pas un chiffre, vous devez la remplacer par 0 (valider avec la fonction is_numeric)
+
